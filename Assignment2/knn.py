@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Ethan Ngo
 # FILENAME: knn.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Caluclates the LOO-CV of a file for 1knn
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 30 min
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
